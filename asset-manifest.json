@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AppTrek/static/css/main.ae42ac5f.css",
+    "main.js": "/AppTrek/static/js/main.e0f3a54c.js",
+    "index.html": "/AppTrek/index.html",
+    "main.ae42ac5f.css.map": "/AppTrek/static/css/main.ae42ac5f.css.map",
+    "main.e0f3a54c.js.map": "/AppTrek/static/js/main.e0f3a54c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.e0f3a54c.js"
+  ]
+}
