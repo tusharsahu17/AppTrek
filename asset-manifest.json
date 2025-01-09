@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AppTrek/static/css/main.ae42ac5f.css",
-    "main.js": "/AppTrek/static/js/main.e0f3a54c.js",
+    "main.js": "/AppTrek/static/js/main.4f6b1753.js",
     "index.html": "/AppTrek/index.html",
     "main.ae42ac5f.css.map": "/AppTrek/static/css/main.ae42ac5f.css.map",
-    "main.e0f3a54c.js.map": "/AppTrek/static/js/main.e0f3a54c.js.map"
+    "main.4f6b1753.js.map": "/AppTrek/static/js/main.4f6b1753.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.e0f3a54c.js"
+    "static/js/main.4f6b1753.js"
   ]
 }
