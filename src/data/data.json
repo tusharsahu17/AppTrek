@@ -1,100 +1,87 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Empowering Your Mobile Development Journey",
+    "paragraph": "From hands-on training to custom app creation, we equip you with the skills and support to build outstanding React Native apps. Let us help you turn your ideas into innovative, high-quality mobile solutions"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At AppTrek, we are a passionate team dedicated to helping developers excel in React Native mobile app development. We provide hands-on training and personalized coaching to equip individuals and teams with the skills needed to build high-quality, cross-platform mobile applications.As a startup, we understand the challenges of staying ahead in a fast-paced tech world. That’s why our programs are designed to be practical, flexible, and tailored to your needs, focusing on real-world projects and best practices.Join us on this journey to learn, grow, and create amazing mobile experiences that make an impact!",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Foundational to Advanced Courses",
+      "Personalized Coaching",
+      "Best Practices and Modern Tools",
+      "Career Growth Guidance",
+      "Networking Opportunities"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Hands-On Project Work",
+      "Ongoing Support and Resources",
+      "Debugging and Problem-Solving Skills",
+      "UI/UX Best Practices",
+      "Real-Time Feedback"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Omnibiz Retail",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Queue Central",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "MBO Rooms",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Popular Paints",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Project Expat",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Gleo",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-arrow-circle-right",
+      "name": "End-to-End Development Support",
+      "text": "Get assistance with every stage of mobile app development, from ideation and design to deployment and maintenance."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Custom App Development",
+      "text": "Partner with us to build high-quality, cross-platform React Native apps tailored to your business needs."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-search",
+      "name": "Code Reviews and Audits",
+      "text": "Improve your code quality with detailed reviews and audits, ensuring your app is scalable, maintainable, and efficient."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-code",
+      "name": "API Integration Support",
+      "text": "Seamlessly integrate third-party APIs or custom backend systems into your React Native apps with our expert guidance."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-github",
+      "name": "Version Control Training",
+      "text": "Master Git and other version control systems to collaborate effectively and manage your projects like a pro."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-expand",
+      "name": "Scalability Solutions",
+      "text": "Learn how to optimize your apps for growing user bases and high performance under load."
     }
   ],
   "Testimonials": [
@@ -131,54 +118,44 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/satish.jpeg",
+      "name": "Satish Sahu",
+      "job": "PHP Developer"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/tushar.jpeg",
+      "name": "Tushar sahu",
+      "job": "React Native Developer"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Bilaspur, Chattishgarh",
+    "phone": "7898544529, 7000595344",
+    "email": "tusharsao7000@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-magic",
+      "title": "Hands-On Learning",
+      "text": "Gain practical skills by working on real-world projects that prepare you for the challenges of professional app development"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Comprehensive Curriculum",
+      "text": "Cover everything from the basics of React Native to advanced topics like performance optimization, animations, and native integrations."
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Interactive Sessions",
+      "text": "Participate in live workshops, Q&A sessions, and group discussions to deepen your understanding"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Career-Focused Training",
+      "text": "Career-Focused TrainingLearn not just the technical skills but also industry best practices, debugging techniques, and efficient workflows."
     }
   ]
 }

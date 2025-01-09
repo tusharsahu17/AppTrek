@@ -8,8 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Welcome to our Gallery, where we showcase the incredible work and projects that highlight our expertise in React Native mobile app development. Here, you'll find a curated collection of the apps we've built.
           </p>
         </div>
         <div className="row">
